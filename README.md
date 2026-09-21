@@ -55,14 +55,80 @@
 <!-- Tech Stack -->
 <h2 align="center">Tech Stack</h2>
 
+<h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,reactnative" alt="Frontend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,aws,dynamodb,firebase,supabase" alt="Backend & Cloud" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" alt="Tooling" />
+  <a href="https://www.typescriptlang.org/" title="TypeScript — Typed superset of JavaScript">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript — The language of the web">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
+  </a>
+  <a href="https://react.dev/" title="React — Component-based UI library">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+  </a>
+  <a href="https://nextjs.org/" title="Next.js — Full-stack React framework">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
+  </a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS — Utility-first CSS framework">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML — Markup for the web">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS — Styling for the web">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
+  </a>
+  <a href="https://reactnative.dev/" title="React Native — Cross-platform mobile apps">
+    <img src="https://skillicons.dev/icons?i=reactnative" alt="React Native" title="React Native" />
+  </a>
 </p>
 
+<h3 align="center">Backend & Cloud</h3>
+<p align="center">
+  <a href="https://nodejs.org/" title="Node.js — JavaScript runtime">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
+  </a>
+  <a href="https://expressjs.com/" title="Express — Minimal Node.js web framework">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" />
+  </a>
+  <a href="https://www.python.org/" title="Python — Versatile programming language">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" title="Flask — Lightweight Python web framework">
+    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" />
+  </a>
+  <a href="https://aws.amazon.com/" title="AWS — Amazon Web Services cloud platform">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" />
+  </a>
+  <a href="https://aws.amazon.com/dynamodb/" title="DynamoDB — Serverless NoSQL database">
+    <img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" title="DynamoDB" />
+  </a>
+  <a href="https://firebase.google.com/" title="Firebase — Google's app development platform">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" />
+  </a>
+  <a href="https://supabase.com/" title="Supabase — Open-source Firebase alternative">
+    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" />
+  </a>
+</p>
+
+<h3 align="center">Tooling</h3>
+<p align="center">
+  <a href="https://git-scm.com/" title="Git — Distributed version control">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  </a>
+  <a href="https://github.com/Soleuss2" title="GitHub — Code hosting and collaboration">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  </a>
+  <a href="https://vercel.com/" title="Vercel — Frontend cloud platform">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
+  </a>
+  <a href="https://www.figma.com/" title="Figma — Collaborative design tool">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
+  </a>
+  <a href="https://code.visualstudio.com/" title="VS Code — Code editor by Microsoft">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
+  </a>
+</p>
 ---
 
 <!-- Projects -->
@@ -133,47 +199,6 @@
 <p>
   <img src="https://img.shields.io/badge/TypeScript-Contributor-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <a href="https://medicare-supersystem.vercel.app/"><img src="https://img.shields.io/badge/Live-medicare--supersystem.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
-</p>
-
----
-
-<!-- GitHub Activity -->
-<h2 align="center">GitHub Activity</h2>
-
-<p align="center">
-  <a href="https://github.com/Soleuss2">
-    <img src="https://github-readme-stats.vercel.app/api?username=Soleuss2&show_icons=true&theme=transparent&hide_border=true&title_color=7c83fd&icon_color=7c83fd&text_color=c9d1d9&ring_color=7c83fd&cache_seconds=86400" alt="GitHub Stats" height="180px"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Soleuss2">
-    <img src="https://streak-stats.demolab.com/?user=Soleuss2&theme=transparent&hide_border=true&ring=7c83fd&fire=7c83fd&currStreakLabel=7c83fd&cache_seconds=86400" alt="GitHub Streak" height="180px"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Soleuss2?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soleuss2&layout=compact&theme=transparent&hide_border=true&title_color=7c83fd&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages" height="180px"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Soleuss2">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soleuss2&bg_color=00000000&color=7c83fd&line=7c83fd&point=ffffff&hide_border=true&days=30" alt="Contribution Graph" width="100%"/>
-  </a>
-</p>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Soleuss2/Soleuss2/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
-<!-- Trophies -->
-<h2 align="center">GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soleuss2&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 ---
