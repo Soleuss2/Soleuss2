@@ -129,6 +129,7 @@
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
   </a>
 </p>
+
 ---
 
 <!-- Projects -->
@@ -199,6 +200,47 @@
 <p>
   <img src="https://img.shields.io/badge/TypeScript-Contributor-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <a href="https://medicare-supersystem.vercel.app/"><img src="https://img.shields.io/badge/Live-medicare--supersystem.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+</p>
+
+---
+
+<!-- GitHub Activity -->
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <a href="https://github.com/Soleuss2">
+    <img src="https://github-readme-stats.vercel.app/api?username=Soleuss2&show_icons=true&theme=transparent&hide_border=true&title_color=7c83fd&icon_color=7c83fd&text_color=c9d1d9&ring_color=7c83fd&cache_seconds=86400" alt="GitHub Stats" height="180px"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Soleuss2">
+    <img src="https://streak-stats.demolab.com/?user=Soleuss2&theme=transparent&hide_border=true&ring=7c83fd&fire=7c83fd&currStreakLabel=7c83fd&cache_seconds=86400" alt="GitHub Streak" height="180px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Soleuss2?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soleuss2&layout=compact&theme=transparent&hide_border=true&title_color=7c83fd&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages" height="180px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Soleuss2">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soleuss2&bg_color=00000000&color=7c83fd&line=7c83fd&point=ffffff&hide_border=true&days=30" alt="Contribution Graph" width="100%"/>
+  </a>
+</p>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Soleuss2/Soleuss2/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
+<!-- Trophies -->
+<h2 align="center">GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Soleuss2&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 ---
