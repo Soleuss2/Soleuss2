@@ -141,16 +141,26 @@
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soleuss2&show_icons=true&theme=transparent&hide_border=true&title_color=7c83fd&icon_color=7c83fd&text_color=c9d1d9&ring_color=7c83fd" alt="GitHub Stats" height="180px"/>
+  <a href="https://github.com/Soleuss2">
+    <img src="https://github-readme-stats.vercel.app/api?username=Soleuss2&show_icons=true&theme=transparent&hide_border=true&title_color=7c83fd&icon_color=7c83fd&text_color=c9d1d9&ring_color=7c83fd&cache_seconds=86400" alt="GitHub Stats" height="180px"/>
+  </a>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soleuss2&theme=transparent&hide_border=true&ring=7c83fd&fire=7c83fd&currStreakLabel=7c83fd" alt="GitHub Streak" height="180px"/>
+  <a href="https://github.com/Soleuss2">
+    <img src="https://streak-stats.demolab.com/?user=Soleuss2&theme=transparent&hide_border=true&ring=7c83fd&fire=7c83fd&currStreakLabel=7c83fd&cache_seconds=86400" alt="GitHub Streak" height="180px"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soleuss2&layout=compact&theme=transparent&hide_border=true&title_color=7c83fd&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180px"/>
+  <a href="https://github.com/Soleuss2?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soleuss2&layout=compact&theme=transparent&hide_border=true&title_color=7c83fd&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages" height="180px"/>
+  </a>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soleuss2&bg_color=00000000&color=7c83fd&line=7c83fd&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%"/>
+<p align="center">
+  <a href="https://github.com/Soleuss2">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soleuss2&bg_color=00000000&color=7c83fd&line=7c83fd&point=ffffff&hide_border=true&days=30" alt="Contribution Graph" width="100%"/>
+  </a>
+</p>
 
 <!-- Snake Animation -->
 <div align="center">
@@ -164,15 +174,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Soleuss2&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-</p>
-
----
-
-<!-- Quote -->
-<h2 align="center">Random Dev Quote</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
